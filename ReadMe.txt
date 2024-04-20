@@ -29,12 +29,7 @@ For each of these steps, especially steps 2 and 3, you'd write detailed Python c
 Each of these code snippets provides a starting point for the respective step in your project. Due to the complexities of natural language processing and the limits of this format, each snippet is fairly basic. You may need to refine and expand upon them based on your specific requirements, the intricacies of your dataset, and the depth of analysis you wish to achieve.
 
 
-except FileNotFoundError as e:
-    print(f"Log file not found: {e}")
-except (ValueError, TypeError) as e:
-    print(f"Error occurred while logging: {e}")
-except (IOError, PermissionError) as e:
-    print(f"Error occurred while writing to log file: {e}")
+
 
 
 
