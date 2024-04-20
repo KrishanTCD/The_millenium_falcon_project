@@ -1,0 +1,78 @@
+UK Immigration changes on 4 April 2024 – the latest details
+As we reported in our update on 25 January 2024 the Home Office has announced significant changes to the UK immigration system. This flows from the Home Office's five point plan to significantly reduce net migration announced in December 2023. On 14 March 2024, the Home Office released further details in a Statement of Changes which confirms some points which were not known in January 2024. Many of these changes come into effect on 4 April 2024.
+
+Skilled Worker changes
+Skilled Worker minimum salary increase
+From 4 April 2024, the minimum salary threshold for a Skilled Worker visa application will rise to the higher of £38,700 or the going rate for that type of role.
+
+Roles will be as set out in the SOC (Standard Occupational Classification) 2020, instead of SOC 2010. This will result in changes to the occupation code number for some roles.
+
+The data used to set these salaries will also change from the 25th percentile of the 2021 Annual Survey of Hours and Earnings (ASHE) data to the median (50th percentile) of the 2023 ASHE data. This change means that for some roles, the minimum salary threshold will be significantly above £38,700.
+
+The Home Office has announced transitional salaries which will apply to individuals who already hold a Skilled Worker visa and apply to extend their permission or to change employers in the UK. For these individuals, the minimum salary threshold will be the higher of £29,000 (up from £26,200) or the going rate for the type of role, which will be based on the 25th percentile of the 2023 ASHE data. In most cases, this amounts to a 10-20% increase to the minimum salary threshold. These transitional provisions will apply for applications made by individuals granted their Skilled Worker visa before 4 April 2024, and who are applying before 4 April 2030.
+
+The table below shows examples of the changes in minimum salary thresholds in the various scenarios, all based on a 37.5 hour working week.
+
+Occupation code	Job category	Minimum salary pre-4 April 2024	Minimum salary from 4 April 2024	Transitional salary
+1111 (was 1115)	Chief executives and senior officials	£59,300	£84,100	£54,700
+1131	Financial managers and directors	£42,800	£70,000	£45,000
+2133 (was 2135)	IT business analysts	£30,080*	£51,700*	£39,300
+2134 (was 2136)	Programmers and software developers	£27,200*	£49,400*	£36,300
+3556 (was 3545)	Sales accounts and BD managers	£35,100	£52,200	£39,100
+2422 (was 3534)	Finance and investment analysts	£28,600	£40,600	£32,100
+4151	Sales administrators	£26,200**	£38,700**	£29,000**
+1222 (was 1223)	Restaurant managers	£26,200**	£38,700**	£29,000**
+ 
+
+* There will no longer be a salary discount for roles on the Immigration Salary List.
+
+** Occupation code going rate is lower than minimum salary threshold in each case.
+
+It will be important for employers to review these new salaries to ensure that employees can meet the relevant minimum salary levels at the point they plan to submit their new application.
+
+New entrant discounts remain 
+To many people's relief, the Home Office has confirmed that it is retaining the 'new entrant' salary discounts for those applying for a Skilled Worker visa in certain cases (including students switching to Skilled Worker, applicants under 26 years old, and those working towards full registration or chartered status, such as architects, accountants and solicitors).
+
+The new entrant discount reduces the Skilled Worker minimum salary threshold to the higher of £30,960 per year or 70% of the going rate for the applicable SOC 2020 occupation code. For example, for a new entrant applicant taking up a role which falls into occupation code 2134, the minimum salary threshold for a 37.5 hour working week would be £34,580 (70% of £49,400).
+
+Both thresholds are significantly higher than the pre 4 April 2024 threshold of £20,960. This could well mean that many graduate roles are no longer eligible for sponsorship. 
+
+It is also important to remember that this discount can only apply for a maximum of four years, including any time spent on a Graduate visa. At the end of the four year period, the individual will need to meet the higher salary thresholds.
+
+The full applicable going rate salary must be paid when someone is applying for settlement. 
+
+Other changes 
+Change to occupation codes 
+As well as the substantial reduction of the number of occupation codes appearing in the Immigration Salary List (previously known as the Shortage Occupation List), and the removal of the 20% reduction in minimum salary levels for those still on the list, the Home Office has also updated roles and consolidated some occupation codes to reflect the changes between SOC 2010 and SOC 2020. 
+
+When extending visas or applying for new visas, attention will be needed to which code is now the correct one.
+
+Significant expansion of supplementary employment permission
+The Home Office has announced a helpful relaxation of the supplementary employment rules for Skilled Workers from 4 April 2024.
+
+As well as being able to undertake supplementary employment in roles which appear on the Immigration Salary List or which is in the same profession and at the same professional level as the job they are sponsored for, a Skilled Worker can now undertake supplementary work in any role which would itself be eligible for Skilled Worker sponsorship. As before, the Skilled Worker needs to continue carrying out their sponsored role, and the supplementary work must be no more than 20 hours a week. 
+
+This expansion could prove helpful if, for example, a Skilled Worker wants to act as a director or carry out additional work for another group company. However, they would still need permission from their sponsor. 
+
+Global Business Mobility – Senior or Specialist Worker
+Whilst most changes have been to the Skilled Worker route, it is important to note that the salary threshold for this intra company transfer visa route will also increase from £45,800 to £48,500 from 4 April 2024, or the updated occupation code going rate salary if higher. Transitional arrangements are in place in the same way as for Skilled Workers.
+
+Unlike with the Skilled Worker route, guaranteed allowances and company provided accommodation allowances (normally up to 30% of the total salary package) can be included in the salary figure to meet the minimum salary threshold. 
+
+Whilst this route does not lead to settlement in the UK, with the increased salary requirements under the Skilled Worker route, it may be worth considering this option again, especially where the applicant is not a native English speaker or only wants to come to the UK on a temporary basis.
+
+Tougher immigration climate
+What is clear as we move further into 2024 is that, as well as the changes outlined in our January e-alert and above, the Home Office has changed its approach when considering applications.
+
+We have seen that applications for new sponsor licences are coming under increased scrutiny. Compliance visits and audits are ramping up. Often where applications are submitted for roles which only just meet the Home Office rules, caseworkers are looking more closely at eligibility and genuineness before reaching a decision. This is leading to increased delays in processing which needs to be factored into future sponsored visa applications.
+
+What else is in store for 2024?
+The changes don't stop here. Over the next few months please look out for updates from us about:
+
+The move to e-visas by the end of 2024. This notable change will affect all Biometric Residence Permit holders. Details should be released by the Home Office in April 2024. 
+Changes to the EU Settlement Scheme granting automatic 2 year extensions to pre-settled status holders and a proposed move to automatic transition to settled status for some holders of pre-settled status.
+The expansion of the Electronic Travel Authorisation to all countries including the US and EU later in 2024.
+What should employers do now?
+Whilst 4 April 2024 is fast approaching, we recommend that employers continue to review potential applicants, particularly for those coming to the UK for the first time and, if possible, assign CoS before that date.
+
+Do contact us if you'd like to chat through the impact of these changes.

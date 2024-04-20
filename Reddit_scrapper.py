@@ -20,8 +20,8 @@ def account_login():
 
 
 def scraper_function_with_shifting_time(scrp_n):
-    search_query = "immigrants in:usa"
-    subreddit = reddit_pf.subreddit('all').search(query=search_query, time_filter='all', sort='new', limit=100)
+    search_query = "immigrants OR immigration OR Asylum OR Refugee OR Border Control OR Deportation in:uk"
+    subreddit = reddit_pf.subreddit('all').search(query=search_query, time_filter='all', sort='new', limit=50000)
 
     for submission in subreddit:
         # Reset topics_comments for each new submission to maintain consistent list lengths
@@ -54,12 +54,12 @@ def scraper_function_with_shifting_time(scrp_n):
             df = pd.DataFrame(topics_dict)
             append_to_csv(df,
                 'C:/Users/Krishan/PycharmProjects/The_millenium_falcon_project/The_millenium_falcon_project/static'
-                '/reddit_immigration.csv')
+                '/reddit_immigration_uk.csv')
         if (len(v) > 0 for v in topics_comments.values()):
             df2 = pd.DataFrame(topics_comments)
             append_to_csv(df2,
                 'C:/Users/Krishan/PycharmProjects/The_millenium_falcon_project/The_millenium_falcon_project/static'
-                '/reddit_immigration_comments.csv')
+                '/reddit_immigration_comments_uk.csv')
 
     log_message(f"Iteration number: Success {scrp_n}")
     sleep(2)

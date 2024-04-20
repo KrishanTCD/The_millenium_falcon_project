@@ -3,8 +3,8 @@ from nltk.tokenize import word_tokenize
 import pandas as pd
 
 # Load your data
-df = pd.read_csv('reddit_immigration.csv')
-
+df = pd.read_csv('/static/reddit_immigration.csv')
+df2= pd.read_csv("/static/reddit_immigration_comments.csv")
 # Assuming your comments are in a column named 'body'
 nltk.download('punkt')
 nltk.download('stopwords')
